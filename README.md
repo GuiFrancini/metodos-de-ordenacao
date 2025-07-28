@@ -8,4 +8,4 @@ Praticando exemplos de algoritmos de ordenação na linguagem c como o:
   <p><b> QuickSort </b></p>
  Metodos de busca em C como a:
   <p><b> busca Linear </b></p>
-  <p><b> Logarítmica </b></p>
+  <p><b> Logarítmica (binária) </b></p>
