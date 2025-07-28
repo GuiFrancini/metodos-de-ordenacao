@@ -1,6 +1,6 @@
 # Metódos de Ordenação em C
 Praticando exemplos de algoritmos de ordenação na linguagem c como o:
- <b> BubbleSort </b>
+ <p><b> BubbleSort </b></p>
  <b> #SelectionSort </b>
  <b>#InsertionSort </b>
  <b> #ShellSort </b>
