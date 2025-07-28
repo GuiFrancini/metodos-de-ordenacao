@@ -1,11 +1,11 @@
 # Metódos de Ordenação em C
 Praticando exemplos de algoritmos de ordenação na linguagem c como o:
- #BubbleSort
- #SelectionSort
- #InsertionSort
- #ShellSort
- #MergeSort 
- #QuickSort
+ <b> BubbleSort </b>
+ <b> #SelectionSort </b>
+ <b>#InsertionSort </b>
+ <b> #ShellSort </b>
+ <b>#MergeSort </b>
+ <b> #QuickSort </b>
  Metodos de busca em C como a:
-  #busca Linear
-  #Logarítmica
+ <b> #busca Linear </b>
+ <b> #Logarítmica </b>
